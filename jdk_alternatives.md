@@ -11,3 +11,8 @@ In Linux Centos 7, by feault the openjdk packages will install. When we want to 
 3. Now, check the java version which reflects the above selected version.
 
 4. In this way, we can easily switch between different jdk versions.
+
+#### References:
+
+1. [configuring-different-jdks-with-alternatives](https://blogs.igalia.com/dpino/2011/10/13/configuring-different-jdks-with-alternatives/
+)
