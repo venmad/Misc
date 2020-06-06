@@ -1,3 +1,5 @@
+In Linux Centos 7, by feault the openjdk packages wll install. When we want to work with Oracle JDK, install the oracle jdk at the official website in Downloads section and install via rpm.
+
 Below are the steps to switch between different java version in Linux.
 
 1. Enter the below command to see which java versions are installed and configured as alternatives.
