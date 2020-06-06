@@ -1,0 +1,9 @@
+Below are the steps to switch between different java version in Linux.
+
+1. Enter the below command to see which java versions are installed and configured as alternatives.
+   alternatives --config java
+
+2. Enter the Selection to set as default java.
+
+3. In this way, we can easily switch between different jdk versions.
+
